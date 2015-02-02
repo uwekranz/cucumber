@@ -1,0 +1,26 @@
+Ungefiltertes Feedback vom cucumber-Workshop beim Navitreffen 17.09.2014:
+
+-aufsetzten der Entwicklungsumgebung zu schwer
+-das plugin ist mies, kopieren von der Konsole ist doof
+-Anführungsstriche fehlen bei "grrr"
+-details zu regulären Ausdrücken
+-Demo, geführte Einleitung um technische Probleme zu vermeiden, mini demo
+-Pending Exception, trotzdem grüner Test
+-ant target download starten war zumindest teilweise nötig um funktionierende Umgebung zu haben 
+-schneller!
+-idee: (nur spezifizieren nicht coden aber dann 4h oder mehr, versuchen durchzuspezifizieren)
+-man bekommt nur ähnliche Features von allen Gruppen
+-Anforderungen sofort in textfile statt auf Karten
+-format würde Kunden überfordern, beim Kunden in der Form zu anspruchsvoll, mehr leiten, langsamer
+
+Feedback vom cucumber-Workshop bei der SWK-Karlsruhe:
+
+-Installation des Projekts zum Ausprobieren einfachen machen/ Benutzung erklären
+-Gherkin Syntax auf Folien Highlighten, wenn der gedankliche Sprung zur Ausführbarkeit gemacht wird (Urs)
+-Auf coole Gherkin Features eingehen
+-Auf unterstützende Tools eingehen (Weg von der Konsole)
+-Auf Unterschied zu Fitness eingehen 
+-Welche Code Schicht spreche ich mit Cucumber an (Urs)
+-Schluss- und Anfangsfolie mit Namen versehen
+-Andrena Foliensatz benutzen
+
