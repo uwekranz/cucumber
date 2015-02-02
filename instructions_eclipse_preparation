@@ -1,28 +1,50 @@
--install eclipse luna ide for jee developers
+1. install eclipse luna ide for jee developers
 
--first time eclipse opens click "go to workbench"
+   (-first time eclipse opens click "go to workbench")
 
--import the checkout branch from the cucumber git-repo:
+2. get eclipse project from uwes git repo (or from andrena usb stick)
+
+3. import project into eclipse
+
+   
+   or (instead of last two points):
+
+   -import the checkout branch from the cucumber git-repo:
 
  	window > open perspective > other > git
 
 	in git perspective click "clone repository"
- 	enter https://github.com/cucumber/cucumber-java-skeleton.git in location > uri
+ 	enter "https://github.com/cucumber/cucumber-java-skeleton.git" as uri
  	select "checkout" in branch selection
 
--open the project:
+   -open the project:
 
 	file > import > existing maven projects
 	choose the directory containing the file pom.xml in your local clone of the git-repo
 
--run cucumber tests:
+
+
+4. run cucumber tests:
 
 	in the jee perspective right click on the project and 
 	choose run as > junit test from the context menu
 	to run the cucumber tests
 
--install the cucumber plugin
+5. install the cucumber plugin
  
  	help > install new software, 
  	enter "http://cucumber.github.com/cucumber-eclipse/update-site" in the input box labeled "work with"
  	and select "cucumber plugin"
+
+
+
+Alternatively use IDEA:
+
+1. Install IDEA (On Linux: Download, Extract)
+
+2. Import the Maven project 
+       Run Script bin/idea.sh in installation directory of IDEA, 
+       Choose "Import Project" and navigate to the project directory containing the file pom.xml
+       Choose Maven as import type (Import project from external model > maven)
+
+3. Choose Menu "File > Settings". Press Button "Install JetBrains Plugin". Install "Cucumber for Java" and restart IDEA.

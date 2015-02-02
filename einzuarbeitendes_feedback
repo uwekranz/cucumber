@@ -1,11 +1,13 @@
 Ungefiltertes Feedback vom cucumber-Workshop beim Navitreffen 17.09.2014:
 
--aufsetzten der Entwicklungsumgebung zu schwer
--das plugin ist mies, kopieren von der Konsole ist doof
+-aufsetzten der Entwicklungsumgebung zu schwer --> jetzt nur noch drei-schrittig (install eclipse, get project, import project into eclipse, or similar with idea)
+-das plugin ist mies, kopieren von der Konsole ist doof --> (generate using IDEA)
+-Pending Exception, trotzdem grüner Test --> better in idea (red if step not defined, does not terminate when PendingException met)
+
+-Demo, geführte Einleitung um technische Probleme zu vermeiden, mini demo
+
 -Anführungsstriche fehlen bei "grrr"
 -details zu regulären Ausdrücken
--Demo, geführte Einleitung um technische Probleme zu vermeiden, mini demo
--Pending Exception, trotzdem grüner Test
 -ant target download starten war zumindest teilweise nötig um funktionierende Umgebung zu haben 
 -schneller!
 -idee: (nur spezifizieren nicht coden aber dann 4h oder mehr, versuchen durchzuspezifizieren)
@@ -15,11 +17,13 @@ Ungefiltertes Feedback vom cucumber-Workshop beim Navitreffen 17.09.2014:
 
 Feedback vom cucumber-Workshop bei der SWK-Karlsruhe:
 
--Installation des Projekts zum Ausprobieren einfachen machen/ Benutzung erklären
+-Installation des Projekts zum Ausprobieren einfachen machen/ Benutzung erklären --> s.o.
+-Auf unterstützende Tools eingehen (Weg von der Konsole) --> s.o.
+
 -Gherkin Syntax auf Folien Highlighten, wenn der gedankliche Sprung zur Ausführbarkeit gemacht wird (Urs)
 -Auf coole Gherkin Features eingehen
--Auf unterstützende Tools eingehen (Weg von der Konsole)
 -Auf Unterschied zu Fitness eingehen 
+
 -Welche Code Schicht spreche ich mit Cucumber an (Urs)
 -Schluss- und Anfangsfolie mit Namen versehen
 -Andrena Foliensatz benutzen
