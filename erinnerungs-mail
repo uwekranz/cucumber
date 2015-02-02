@@ -1,0 +1,14 @@
+Hallo,
+
+
+morgen Abend findet das Karlsruher Treffen der Softwerkskammer statt. 
+Um beim Cucumber-Workshop eine eingerichtete IDE bereit stehen zu haben 
+kann im Java-Fall Eclipse genutzt werden und ein Cucumber-Skelett via git von ... importiert werden. 
+Außerdem empfiehlt sich dazu das Plugin „cucumber-eclipse". 
+
+Im .Net-Fall bringt das Plugin SpecFlow die IDE Visual Studio in die Lage mit Cucumber umzugehen. 
+Auch jede andere Umgebung, die es erlaubt Cucumber zu nutzen ist geeignet.
+
+
+Viele Grüße
+Uwe Kranz

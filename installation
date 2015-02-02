@@ -1,0 +1,37 @@
+Linux:
+
+Um das Ruby-Programm Cucumber zu nutzen muss Ruby installiert sein. 
+Dazu dient unter Debian Distributionen oder Ubuntu der Kommandozeilenbefehl „sudo apt-get install ruby“. 
+Als nächstes wird die Ruby-Packetverwaltung Gem via „sudo apt-get install gem“ verfügbar gemacht, 
+um schließlich mit „gem install cucumber“ das eigentliche Cucumber-Programm zu installieren. 
+Die mitgelieferten Beispiele benötigen außerdem die Ruby Library RSpec, die durch „gem install rspec“ nachzuliefern ist.
+
+
+Windows:
+
+Unter Windows kann zur Installation der Ruby-Installer von „rubyinstaller.com“ benutzt werden. 
+Es ist nützlich bei der Installation anzuhaken, dass der Ruby-Befehl im Pfad verfügbar sein soll 
+und dass Dateien mit der Endung „.rb“ von dieser Ruby-Installation ausgeführt werden. 
+Jetzt kann bei bestehender Internet-Verbingung via „gem install cucumber“ das eigentliche Cucumber-Programm installiert werden. 
+Die mitgelieferten Beispiele benötigen außerdem die Ruby Library RSpec, die durch „gem install rspec“ nachzuliefern ist.
+
+Unter einem Ordner ähnlich „C:\Ruby193\lib\ruby\gems\1.9.1\gems\cucumber-1.3.14\examples\i18n\en“ sind Bespiele zu finden.
+
+Um farbige Ausgaben auf der Konsole zu erhalten kann 
+mittels der Anleitung auf „http://stackoverflow.com/questions/4746647/cucumber-not-showing-coloured-output-in-windows“ 
+ansicon installiert werden.
+
+
+Links:
+
+https://www.ruby-lang.org/en/installation/ 
+	Informationen zur Installation von Ruby auf diversen Betriebssystemen
+
+http://rubyinstaller.org/
+	Download des Windows-Installers für Ruby
+
+https://github.com/cucumber/cucumber/wiki/Install
+	Installationsinformationen zu Cucumber als standalone Variante oder innerhalb von diversen Frameworks
+
+https://rubygems.org/
+	Anlaufstelle zur Packetverwaltung Gem

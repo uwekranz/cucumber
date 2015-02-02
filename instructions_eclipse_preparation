@@ -1,0 +1,8 @@
+install eclipse luna standard 4.4
+
+install "m2e - Maven Integratin for Eclipse"-plugin in eclipse
+checkout branch named "checkout" from git repository https://github.com/cucumber/cucumber-java-skeleton.git and
+import as general project
+convert to maven project
+
+(add cucumber-eclipse plugin from http://cucumber.github.com/cucumber-eclipse/update-site)
