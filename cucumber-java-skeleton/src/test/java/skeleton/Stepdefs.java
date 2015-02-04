@@ -1,6 +1,5 @@
 package skeleton;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -25,11 +24,5 @@ public class Stepdefs {
     @Then("^the total should be £(\\d+)$")
     public void the_total_should_be_£(int expectedTotal) throws Throwable {
         assertEquals("The total is incorrect", expectedTotal, checkout.getTotal());
-    }
-
-    @When("^I sell crazy things$")
-    public void I_sell_crazy_things() throws Throwable {
-        // Express the Regexp above with the code you wish you had
-        throw new PendingException();
     }
 }

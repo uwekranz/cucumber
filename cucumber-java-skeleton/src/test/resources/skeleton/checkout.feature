@@ -1,9 +1,9 @@
 Feature: Checkout
 
-  Background: 
+  Background:
     Given the following products:
-      | espresso  | 2 |
-      | croissant | 1 |
+      | espresso  | 2     |
+      | croissant | 1     |
 
   Scenario: Sell only espresso
     When I sell 3 espresso
@@ -14,6 +14,4 @@ Feature: Checkout
     And I sell 3 croissant
     Then the total should be £7
 
-  Scenario: Espresso costs 1.80
-    When I sell crazy things
-    Then something happens
+  #Scenario: Espresso costs 1.80

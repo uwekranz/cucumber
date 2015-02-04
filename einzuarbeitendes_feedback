@@ -23,7 +23,7 @@ Feedback vom cucumber-Workshop bei der SWK-Karlsruhe:
 -Auf unterstützende Tools eingehen (Weg von der Konsole) --> s.o.
 
 -Gherkin Syntax auf Folien Highlighten, wenn der gedankliche Sprung zur Ausführbarkeit gemacht wird (Urs) --> erledigt
--Auf coole Gherkin Features eingehen
+-Auf coole Gherkin Features eingehen --> http://cukes.info/step-definitions, artikel "gurken zum kaffe" in javamagazin 2/2015
 -Auf Unterschied zu Fitness eingehen 
 
 -Welche Code Schicht spreche ich mit Cucumber an (Urs)
