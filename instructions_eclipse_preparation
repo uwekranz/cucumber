@@ -1,8 +1,28 @@
-install eclipse luna standard 4.4
+-install eclipse luna ide for jee developers
 
-install "m2e - Maven Integratin for Eclipse"-plugin in eclipse
-checkout branch named "checkout" from git repository https://github.com/cucumber/cucumber-java-skeleton.git and
-import as general project
-convert to maven project
+-first time eclipse opens click "go to workbench"
 
-(add cucumber-eclipse plugin from http://cucumber.github.com/cucumber-eclipse/update-site)
+-import the checkout branch from the cucumber git-repo:
+
+ 	window > open perspective > other > git
+
+	in git perspective click "clone repository"
+ 	enter https://github.com/cucumber/cucumber-java-skeleton.git in location > uri
+ 	select "checkout" in branch selection
+
+-open the project:
+
+	file > import > existing maven projects
+	choose the directory containing the file pom.xml in your local clone of the git-repo
+
+-run cucumber tests:
+
+	in the jee perspective right click on the project and 
+	choose run as > junit test from the context menu
+	to run the cucumber tests
+
+-install the cucumber plugin
+ 
+ 	help > install new software, 
+ 	enter "http://cucumber.github.com/cucumber-eclipse/update-site" in the input box labeled "work with"
+ 	and select "cucumber plugin"
