@@ -1,0 +1,49 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+\section*{Setup Instructions}
+During the Workshop we will be coding and therefore depend on an environment that supports us doing so. To encourage mutual support between participants and to allow for easier pair programming let us agree to stick to the Setup described bellow. That is, we will be using IntelliJ since it properly supports cucumber via a native plugin. Furthermore glue code will be written in Java. Nevertheless Java skills are not a prerequisite. Only basic programming know-how is required per pair. Please setup your laptop in advance and bring it with you.
+  
+	\begin{description}
+		\item[Install IDE] \hfill
+		\begin{itemize}
+			\item Download IntelliJ IDEA 14.0.3 Community Edition from\\
+                	\url{http://www.jetbrains.com/idea/download/}
+		\end{itemize}
+		\item[Get Project] \hfill
+		\begin{itemize} 
+                	\item Get the project from from\\
+                \url{https://github.com/cucumber/cucumber-java-skeleton.git}
+                \end{itemize}
+                \item[Import Project] \hfill
+                \begin{itemize}
+                        \item Start IntelliJ 
+		        \item Choose "Import Project"
+			\item Navigate to the projects root directory containing the file "pom.xml"
+       	        	\item Choose "Import project from external model" \textgreater\ Maven
+		\end{itemize}
+		\item[Add Plugin] \hfill
+		\begin{itemize}
+	                \item Choose Menu "File \textgreater\ Settings \textgreater\ Plugins"
+		        \item Press Button "Install JetBrains plugin..."
+	                \item Search for "Cucumber for Java"
+	                \item Press Button "Install plugin"
+	 		\item Press Button "Restart IntelliJ"
+		\end{itemize}
+                	\item[Verify Setup] \hfill
+                \begin{itemize}
+                        \item Right click on the project and choose "Run \textgreater\ All Tests"
+                        \item You should see a green bar
+                \end{itemize}
+
+	\end{description}
+
+The setup instruction might slighty differ depending on your operating system. If you are experiencing problems or have any questions please contact me via \href{mailto:uwe.karsten.kranz@gmail.com}{uwe.karsten.kranz@gmail.com}.
+
+\end{document}       

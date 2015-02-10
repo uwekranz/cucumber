@@ -1,0 +1,30 @@
+#############TODO
+
+-Installationsanleitung/IDE-Anleitung verfassen --> erledigt
+
+-unabhängig vom Internet machen
+
+-Demo, geführte Einleitung um technische Probleme zu vermeiden, mini demo
+
+-details zu regulären Ausdrücken 
+	--> The metacharacters supported by java.util.regex are: <([{\^-=$!|]})?*+.>, http://docs.oracle.com/javase/tutorial/essential/regex/index.html
+
+-Auf coole Gherkin Features eingehen 
+	--> http://cukes.info/step-definitions, artikel "gurken zum kaffe" in javamagazin 2/2015
+
+
+
+
+
+
+
+-Auf Unterschied zu Fitness eingehen 
+
+-Welche Code Schicht spreche ich mit Cucumber an (Urs)
+
+-man bekommt ähnliche Features von allen Gruppen
+
+
+
+
+

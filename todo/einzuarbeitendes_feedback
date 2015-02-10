@@ -1,0 +1,32 @@
+###################Ungefiltertes Feedback vom cucumber-Workshop beim Navitreffen 17.09.2014:
+
+-aufsetzten der Entwicklungsumgebung zu schwer --> jetzt nur noch drei-schrittig (install idea, get project, import project into idea)
+-das plugin ist mies, kopieren von der Konsole ist doof --> (generate templates using IDEA)
+-Pending Exception, trotzdem grüner Test --> no problem in idea
+
+-Demo, geführte Einleitung um technische Probleme zu vermeiden, mini demo
+
+-Anführungsstriche fehlen bei "grrr" --> erledigt
+-details zu regulären Ausdrücken --> The metacharacters supported by java.util.regex are: <([{\^-=$!|]})?*+.>, http://docs.oracle.com/javase/tutorial/essential/regex/index.html
+
+-ant target download starten war zumindest teilweise nötig um funktionierende Umgebung zu haben 
+-schneller!
+-idee: (nur spezifizieren nicht coden aber dann 4h oder mehr, versuchen durchzuspezifizieren)
+-man bekommt ähnliche Features von allen Gruppen
+-Anforderungen sofort in textfile statt auf Karten
+
+-format würde Kunden überfordern, beim Kunden in der Form zu anspruchsvoll, mehr leiten, langsamer
+
+###################Feedback vom cucumber-Workshop bei der SWK-Karlsruhe:
+
+-Installation des Projekts zum Ausprobieren einfachen machen/ Benutzung erklären --> s.o.
+-Auf unterstützende Tools eingehen (Weg von der Konsole) --> s.o.
+
+-Gherkin Syntax auf Folien Highlighten, wenn der gedankliche Sprung zur Ausführbarkeit gemacht wird (Urs) --> erledigt
+-Auf coole Gherkin Features eingehen --> http://cukes.info/step-definitions, artikel "gurken zum kaffe" in javamagazin 2/2015
+-Auf Unterschied zu Fitness eingehen 
+
+-Welche Code Schicht spreche ich mit Cucumber an (Urs)
+-Schluss- und Anfangsfolie mit Namen versehen
+-Andrena Foliensatz benutzen
+
