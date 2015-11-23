@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.27)  9 FEB 2015 16:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.26)  23 NOV 2015 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **setup_instructions.tex
 (./setup_instructions.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+Babel <3.9h> and hyphenation patterns for 7 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -428,10 +428,10 @@ Package rerunfilecheck Info: File `setup_instructions.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 4447 strings out of 495028
- 65870 string characters out of 6181497
- 142803 words of memory out of 5000000
- 7663 multiletter control sequences out of 15000+600000
+ 4447 strings out of 494976
+ 65870 string characters out of 6179137
+ 143078 words of memory out of 5000000
+ 7679 multiletter control sequences out of 15000+600000
  4721 words of font info for 18 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,4n,21p,572b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -441,7 +441,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on setup_instructions.pdf (1 page, 72912 bytes).
+Output written on setup_instructions.pdf (1 page, 72906 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
